@@ -1,0 +1,333 @@
+# Page settings
+
+baseURL = "https://resume.jelletimmerman.com/"
+languageCode = "en"
+title = ""
+theme = "devresume"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "CowboySmall"
+    description = "Jelle Timmerman's resumé"
+
+
+    primaryColor = "#3498eb"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Jelle Timmerman"
+        tagline = "Software Engineer"
+        avatar = "portret.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "Hengelo"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "06 588 17 561"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "career@jelletimmerman.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "#"
+        text = "resume.jelletimmerman.com"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Java/Spring/Hibernate"
+        [[params.skills.list.items]]
+        details = "HTML/Css/Javascript"
+        [[params.skills.list.items]]
+        details = "PostgreSQL/MySQL"
+        [[params.skills.list.items]]
+        details = "Object-oriented design"
+        [[params.skills.list.items]]
+        details = "Linux/bash/scripting/networking"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Effective communication"
+        [[params.skills.list.items]]
+        details = "Team player"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+        [[params.skills.list.items]]
+        details = "Good time management"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "Higher Education"
+        field = "Business and IT"
+        university = "Saxion University of Applied Sciences"
+        dates = "2019 - present"
+        [[params.education.list]]
+        degree = "Intermediate Level 4"
+        field = "Application Development"
+        university = "ROC van Twente"
+        dates = "2014 - 2015"
+        [[params.education.list]]
+        degree = "Intermediate Level 4"
+        field = "Financial Administration and Business Information Skill"
+        university = "Van Rhijn College"
+        dates = "1995 - 2000"
+        [[params.education.list]]
+        degree = "Lower Level Education"
+        field = "Economics and admnistration"
+        university = "'t Nijrees Almelo"
+        dates = "1990 - 1995"
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "Dutch"
+        level = "Native"
+        [[params.languages.list]]
+        name = "English"
+        level = "Professional"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Running"
+        [[params.interests.list]]
+        name = "Skiing"
+        [[params.interests.list]]
+        name = "Reading"
+        [[params.interests.list]]
+        name = "Movies"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "Fanatic, enthousiastic, inquisitive and service-minded. Evolvement, networking, earning money and making career."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Product Specialist"
+        dates = "2018 - Present"
+        company = "BetterBe"
+        details = "Supply knowledge and support in a highly technical company."
+        [[params.experience.list.items]]
+        details = "documenting and descriptions in Atlassian Confluence, WikiMedia"
+        [[params.experience.list.items]]
+        details = "instructing users, processing incidents SaaS product"
+        [[params.experience.list.items]]
+        details = "support through phone, mail, meetings and ticketsystems"
+        [[params.experience.list.items]]
+        details = "program and maintaining of scripts inhouse Java Enterprise created custom language"
+        [[params.experience.list.items]]
+        details = "analyse, reproduce, track and log bugs in Atlassian projectmanagement tooling"
+        [[params.experience.list.items]]
+        details = "testing, reviewing and deploying custom written Java Enterprise software"
+
+        [[params.experience.list]]
+        title = "Java Junior Developer and Support Associate"
+        dates = "2014 - 2018"
+        company = "Colox"
+        details = "Developing, maintaining, bugtracking and giving support for webapplications"
+        [[params.experience.list.items]]
+        details = "development and deployment in Java Enterprise, webapps with Spring, Hibernate, Tomcat and PostgreSQL"
+        [[params.experience.list.items]]
+        details = "bugregistration in Atlassian Jira"
+        [[params.experience.list.items]]
+        details = "instructing users, processing incidents SaaS products"
+        [[params.experience.list.items]]
+        details = "implement company asset managementsystem"
+        [[params.experience.list.items]]
+        details = "support through phone, mail, ticketsystems and onsite"
+
+
+        [[params.experience.list]]
+        title = "Technical Support Assistant"
+        dates = "2008"
+        company = "Multimedia Center"
+        details = "Assembling, installing, configuring of computersystems and (standard)applications. Realising cable-infrastructure and prevent disturbances. Instructing users. Treat and conclude incedents."
+
+        [[params.experience.list]]
+        title = "Administrative Assistant"
+        dates = "2007 - 2008"
+        company = "Stichting Scoop"
+        details = "sorting, check and input income-data for parents own contribution."
+
+        [[params.experience.list]]
+        title = "Administrative Assistant"
+        dates = "2007 - 2008"
+        company = "Belastingservice Particulieren"
+        details = "Check, process en handle taxforms for clients."
+
+        [[params.experience.list]]
+        title = "Administrative and accounting assistant"
+        dates = "2002-2003"
+        company = "CARe Schadeservice"
+        details = "responsible for timely and just processing of debits, credits, invoicing, cash and bankstatements within an accounting system."
+
+        [[params.experience.list]]
+        title = "Administrative assistent credit department"
+        dates = "2000 - 2001"
+        company = "Oad Reizen"
+        details = "responsible for timely and just processing of payments and registration within an independend package"
+
+        [[params.experience.list]]
+        title = "Bookkeeping assistant"
+        dates = "2000"
+        company = "K & E Administration"
+        details = "sort, code and process of administrations for small businesses"
+
+
+
+
+
+
+
+
+    [params.projects]
+        enable = false
+
+        [[params.projects.list]]
+        title = "Project Lorem Ipsum"
+        meta = "Open Source"
+        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+
+        [[params.projects.list]]
+        title = "Project Sed Fringilla"
+        meta = "Open Source"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+        [[params.projects.list]]
+        title = "Project Praesent"
+        meta = "Open Source"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = false
+
+        [[params.information.list]]
+        title = "Papers"
+        [[params.information.list.items]]
+        details = "2018 · Lorem Ipsum"
+        [[params.information.list.items]]
+        details = "2016 · Sed Fringilla"
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Climbing, Snowboarding, Photography, Travelling"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/jelle-timmerman"
+        title = "jelle-timmerman"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/jelletimmerman"
+        title = "jelletimmerman"
+        [[params.social.list]]
+        icon = "fab fa-twitter-square"
+        url = "//twitter.com/jelle-timmerman"
+        title = "@jelletimmerman"
