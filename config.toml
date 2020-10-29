@@ -211,7 +211,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Java Junior Developer and Support Associate"
         dates = "2014 - 2018"
-        company = "Colox"
+        company = "Crolox"
         details = "Developing, maintaining, bugtracking and giving support for webapplications"
         [[params.experience.list.items]]
         details = "development and deployment in Java Enterprise, webapps with Spring, Hibernate, Tomcat and PostgreSQL"
@@ -227,7 +227,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Technical Support Assistant"
-        dates = "2008"
+        dates = "2012"
         company = "Multimedia Center"
         details = "Assembling, installing, configuring of computersystems and (standard)applications. Realising cable-infrastructure and prevent disturbances. Instructing users. Treat and conclude incedents."
 
