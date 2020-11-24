@@ -4,7 +4,7 @@ baseURL = "https://resume.jelletimmerman.com/"
 languageCode = "en"
 title = ""
 theme = "devresume"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "G-VE3E1T8OQV"
 
 
 
@@ -25,7 +25,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Jelle Timmerman"
-        tagline = "Software Engineer"
+        tagline = "Product Specialist"
         avatar = "portret.png"
 
 
