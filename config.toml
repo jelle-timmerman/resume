@@ -109,12 +109,6 @@ googleAnalytics = "G-VE3E1T8OQV"
         field = "Financial Administration and Business Information Skill"
         university = "Van Rhijn College"
         dates = "1995 - 2000"
-        [[params.education.list]]
-        degree = "Lower Level Education"
-        field = "Economics and admnistration"
-        university = "'t Nijrees Almelo"
-        dates = "1990 - 1995"
-
 
 
 
