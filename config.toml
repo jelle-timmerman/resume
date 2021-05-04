@@ -172,7 +172,7 @@ googleAnalytics = "G-VE3E1T8OQV"
 
     [params.summary]
         enable = true
-        text = "Fanatic, enthousiastic, inquisitive and service-minded. Evolvement, networking, earning money and making career."
+        text = "Driven, structured, eager to learn, professional, enthousiastic, persistant, social, teamplayer, insightful and self-reflective."
 
 
 
@@ -321,7 +321,4 @@ googleAnalytics = "G-VE3E1T8OQV"
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/jelletimmerman"
         title = "jelletimmerman"
-        [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "//twitter.com/jelle-timmerman"
-        title = "@jelletimmerman"
+
