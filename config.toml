@@ -221,19 +221,19 @@ googleAnalytics = "G-VE3E1T8OQV"
 
         [[params.experience.list]]
         title = "Technical Support Assistant"
-        dates = "2012"
+        dates = "2013"
         company = "Multimedia Center"
         details = "Assembling, installing, configuring of computersystems and (standard)applications. Realising cable-infrastructure and prevent disturbances. Instructing users. Treat and conclude incedents."
 
         [[params.experience.list]]
         title = "Administrative Assistant"
-        dates = "2007 - 2008"
+        dates = "2008 - 2008"
         company = "Stichting Scoop"
         details = "sorting, check and input income-data for parents own contribution."
 
         [[params.experience.list]]
         title = "Administrative Assistant"
-        dates = "2007 - 2008"
+        dates = "2008 - 2012"
         company = "Belastingservice Particulieren"
         details = "Check, process en handle taxforms for clients."
 
