@@ -41,7 +41,7 @@ googleAnalytics = "G-VE3E1T8OQV"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:#"
-        text = "06 588 17 561"
+        text = "06 14852339"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
